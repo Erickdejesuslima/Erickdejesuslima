@@ -6,10 +6,12 @@
 - ⚡ Alguns fatos sobre mim: falo inglês fluentemente, sou ator, músico e produzo conteudo audio visual no youtube
 
 <div align="center">
-  <a href="https://github.com/Erickdejesuslima">
-  <img height="180em" src=(https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-username=Erickdejesuslima&show_icons=true&theme=dracula=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickdejesuslima&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
