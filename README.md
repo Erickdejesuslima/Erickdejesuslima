@@ -1,7 +1,7 @@
 ## **Ola, me chamo Erick!**
 
 
-- 🔭 Atualmente sou formado em Analise e desenvolvimento de sistemas, estou fazendo pós em Big data e segurança da informação
+- 🔭 Atualmente sou formado em Analise e desenvolvimento de sistemas, tenho pós em Big data e segurança da informação e estou estudando pós em data science
 - 🌱 Estou estudando: hacker etico, react.js 
 - ⚡ Alguns fatos sobre mim: falo inglês fluentemente, sou ator, músico e produzo conteudo audio visual no youtube
 
