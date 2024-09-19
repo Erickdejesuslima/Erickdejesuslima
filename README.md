@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente sou formado em Analise e desenvolvimento de sistemas, tenho pós em Big data, segurança da informação e Data science. Estou estudando pós em Engenharia de software
 - 🌱 Estou estudando: hacker etico, react.js 
-- ⚡ Alguns fatos sobre mim: falo inglês fluentemente, sou ator, músico e produzo conteudo audio visual no youtube
+- ⚡ Alguns fatos sobre mim: falo inglês fluentemente, sou ator, músico e tenho experiêncaia com produção áudio-visual
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
