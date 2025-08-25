@@ -23,6 +23,21 @@ Developed and maintain a website for an occupational therapist and am building a
 
 If you’d like to connect, collaborate, or have any questions, feel free to <a href="mailto:ocaradati@erickdejesus.tech">click here and send me an email</a> — or reach out on <a href="https://www.linkedin.com/in/erickdejesuslima">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
 
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
+![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
