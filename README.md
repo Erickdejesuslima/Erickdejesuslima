@@ -16,6 +16,13 @@ Developed and maintain a website for an occupational therapist and am building a
 
 <h2> 📚 &nbsp;What will you find here?</h2>
 
+- Real-world projects
+- Clean Architecture and SOLID principles in action
+- Automated testing
+- Real-world experiments, case studies, and best practices
+
+If you’d like to connect, collaborate, or have any questions, feel free to <a href="mailto:ocaradati@erickdejesus.tech">click here and send me an email</a> — or reach out on <a href="https://www.linkedin.com/in/erickdejesuslima">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Erick-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
