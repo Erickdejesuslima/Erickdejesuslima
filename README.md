@@ -39,16 +39,18 @@ If you’d like to connect, collaborate, or have any questions, feel free to <a 
 
 
 <h3>⚙️ &nbsp;Back-end & data-science:</h3>
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![Numpy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache-kafka)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
 
 
 
