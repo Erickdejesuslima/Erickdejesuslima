@@ -1,9 +1,6 @@
 <h1><strong>🖖🏻Hey there! I'm Erick Lima, a software engineer passionate about new tech!</strong></h1>
 
-
-- 🔭 Atualmente sou formado em Analise e desenvolvimento de sistemas, tenho pós em Big data, segurança da informação e Data science. Estou estudando pós em Engenharia de software
-- 🌱 Estou estudando: hacker etico, react.js 
-- ⚡ Alguns fatos sobre mim: falo inglês fluentemente, sou ator, músico e tenho experiêncaia com produção áudio-visual
+I am a software engineer with 5 years of experience, specialized in data and cybersecurity, focusing on web and mobile development. I have hands‑on experience in modern front‑end development and API design, as well as automation and containerization.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
