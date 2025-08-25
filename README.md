@@ -1,4 +1,4 @@
-## **Ola, me chamo Erick!**
+<h1>**🖖🏻Hey there! I'm Erick Lima, a software engineer passionate about new tech!**</h1>
 
 
 - 🔭 Atualmente sou formado em Analise e desenvolvimento de sistemas, tenho pós em Big data, segurança da informação e Data science. Estou estudando pós em Engenharia de software
