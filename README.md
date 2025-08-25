@@ -1,5 +1,13 @@
 <h1><strong>🖖🏻Hey there! I'm Erick Lima, a software engineer passionate about new tech!</strong></h1>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/erickdejesuslima"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/0cara_da_ti"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/@0cara_da_ti"><img src="https://img.shields.io/badge/-My%20YT%20Channel-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
+<a href="mailto:ocaradati@erickdejesus.tech"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+</p>
+
 I am a software engineer with 5 years of experience, specialized in data and cybersecurity, focusing on web and mobile development. I have hands‑on experience in modern front‑end development and API design, as well as automation and containerization.
 
 <div style="display: inline_block"><br>
