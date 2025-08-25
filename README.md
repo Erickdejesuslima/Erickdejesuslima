@@ -49,3 +49,7 @@ If you’d like to connect, collaborate, or have any questions, feel free to <a 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![NumPY](https://img.shields.io/badge/-NumPY-333333?style=flat&logo=numpy)
+
+<h2>🚀 &nbsp;My GitHub Stats</h2>
+
+![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erickdejesuslima&show_icons=true&theme=dracula)
