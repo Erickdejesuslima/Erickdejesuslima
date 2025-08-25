@@ -36,6 +36,8 @@ If you’d like to connect, collaborate, or have any questions, feel free to <a 
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
 ![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=pythpn)
+
 
 
 <div style="display: inline_block"><br>
