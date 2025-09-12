@@ -1,6 +1,7 @@
 <h1><strong>🖖🏻Hey there! I'm Erick Lima, a software engineer passionate about new tech!</strong></h1>
 
 <p align="center">
+<a href="https://erickdejesus.tech"><img src="https://img.shields.io/badge/-My%20Site-EEB001?style=flat-square&logo=google&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/erickdejesuslima"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/0cara_da_ti"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/@0cara_da_ti"><img src="https://img.shields.io/badge/-My%20YT%20Channel-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
